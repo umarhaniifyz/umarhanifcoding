@@ -1,0 +1,54 @@
+body {
+    background-color: white;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+#header {
+    background-color: gray;
+    text-align: center;
+    padding: 10px;
+    margin: 1%;
+}
+
+#header h1 {
+    color: white;
+
+}
+
+#header blockquote {
+    background-color: white;
+}
+
+.menu ul, li{
+    justify-content: center;
+    display: flex;
+    font-display: row;
+    list-style: none;
+    background-color:none;
+}
+
+.profil, .promo, #beternak, #profil, .isi {
+    text-align: center;
+    background-color: grey;
+}
+
+.isi, {
+    text-align: center;
+    background-color: #fff;
+}
+
+.fp::first-letter {
+    font-size: 25px;
+    padding-block-end: 0%;
+    color: bisque;
+    width: 10;
+}
+
+.koleksi {
+    text-align: center;
+}
+
+.koleksi img {
+    width: 10%;
+}
+
